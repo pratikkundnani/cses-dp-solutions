@@ -2,6 +2,8 @@
 #include <iostream>
 #include <algorithm>
 #include <vector>
+#include <numeric>
+#include <cstring>
 using namespace std;
 typedef long long ll;
 #define sz(x) ((long long)(x).size())
